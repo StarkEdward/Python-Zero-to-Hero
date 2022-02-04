@@ -1,4 +1,4 @@
-# Lottory Prize Project
+# Lottery Prize Project
 
 x = input("Enter a String: ").upper()
 print("\nWelcome to the Lottery.\n\n\t", x)
