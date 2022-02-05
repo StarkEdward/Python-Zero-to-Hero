@@ -15,5 +15,5 @@ def div(a, b):
 
 a, b = (int(i) for i in input("Enter two Nunbers: ").split())
 
-#div = mod_div(div)
+
 print(div(a, b))
