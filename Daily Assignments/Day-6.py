@@ -9,12 +9,11 @@ def mod_div(fun):
 		return fun(a, b)
 	return deno
 	
-
-
-a, b = (int(i) for i in input("Enter two Nunbers: ").split())
 @mod_div
 def div(a, b):
 	return  a // b
+
+a, b = (int(i) for i in input("Enter two Nunbers: ").split())
 
 #div = mod_div(div)
 print(div(a, b))
