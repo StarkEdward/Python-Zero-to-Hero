@@ -6,4 +6,3 @@ def fun(n):
 li = list(range(1, 501)) # creating list from 1 to 500
 
 print(list(filter(fun, li)))
-
