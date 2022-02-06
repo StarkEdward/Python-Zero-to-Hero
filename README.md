@@ -15,4 +15,6 @@
 
 ```Day 5``` : Python Assignment 5 - from list filter all the numbers which are divisible by 3 and 5.
 
+```Day 6``` : Python Assignment 6 - Floor division of any 2 numbers using Decorators. 
+
 more soon....
